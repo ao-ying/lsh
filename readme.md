@@ -3,3 +3,5 @@ shringle_data.txt 文档编号+这个文档包含的单词的编号。其中文�
 word_dict.txt 词典，单词的索引和对应的单词
 
 lsh.py 代码实现，直接运行即可。环境python3.8.2
+
+# hhh
