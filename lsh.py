@@ -1,7 +1,7 @@
 import numpy as np
 import random
 from time import time
-#add something
+#add something new
 '''
 文件说明
 shringle_data.txt 文档名+这个文档包含的单词构成的集合。其中后四位之前表示博主id，后四位是文章id，表示这是某个博主的第几篇文章。
